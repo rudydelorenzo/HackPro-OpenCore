@@ -1,5 +1,6 @@
 # HackPro OpenCore (i7-8700K)
 This repository holds the EFI folder for my Mac Pro-equivalent hackintosh.
+The configuration is optimized for **`macOS 11.1 Big Sur`**
 
 ## Specifications
 * Intel Core i7-8700K (O.C. to 4.7GHz @ 1.280V)
